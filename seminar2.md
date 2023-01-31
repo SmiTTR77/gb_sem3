@@ -10,4 +10,6 @@
 
 * git merge ...new_branch - команда сливающая текущую ветку с веткой указанной в команде
 
+* git branch -d ...new_branch - удаляет ветку
+
 ## Conflicts
