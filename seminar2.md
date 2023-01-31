@@ -29,3 +29,7 @@
 Но не на Mac:
 ![screenshot1](../git_brains/img/1.png)
 ![screenshot2](../git_brains/img/2.png)
+
+**Conflict**
+
+Когда в сливаемых ветках имеются одинаковые строки претендующие ...
