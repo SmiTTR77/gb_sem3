@@ -25,3 +25,7 @@
 
 **ORT Strategy**
 Когда в ветке **master** и сливаевой ветке присутствуют уникальные коммиты, слияние происходит автоматически.
+
+Но не на Mac:
+![screenshot1](../git_brains/img/1.png)
+![screenshot2](../git_brains/img/2.png)
